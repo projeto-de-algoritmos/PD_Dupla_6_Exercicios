@@ -34,7 +34,7 @@ Cada pasta do repositório com prefixo "problem" é um problema resolvido. Para 
 Necessário possuir Node para execução das soluções.
 
 ## Apresentação
-[O vídeo pode ser encontrado aqui.](/assets/presentation.mp4)(/assets/presentation.mp4)
+[O vídeo pode ser encontrado aqui.](/assets/presentation.mp4)
 
 
 
