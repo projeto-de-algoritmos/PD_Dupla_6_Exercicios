@@ -1,44 +1,40 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# PD_Dupla_6_Exercicios
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista**: 6<br>
+**Conteúdo da Disciplina**: Programação Dinâmica<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 19/0056843  |  Carlos Eduardo de Sousa Fiuza |
+| 19/0055201  |  Matheus Calixto Vaz Pinheiro |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+O projeto consiste na resolução de alguns problemas de programação categorizados como "Dynamic Programming" usando abordagens de algoritmos de programação dinâmica.
+Cada pasta do repositório com prefixo "problem" é um problema resolvido. Para detalhes acesse o readme de cada pasta.
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+<div align="center">
+    <img src="./assets/problem1.png"></img>
+</div>
+<div align="center">
+    <img src="./assets/problem2.png"></img>
+</div>
+<div align="center">
+    <img src="./assets/problem3.png"></img>
+</div>
+<div align="center">
+    <img src="./assets/problem4.png"></img>
+</div>
+<div align="center">
+    <img src="./assets/problem5.png"></img>
+</div>
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+Necessário possuir Node para execução das soluções.
 
-## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
-
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+## Apresentação
+[O vídeo pode ser encontrado aqui.](/assets/presentation.mp4)(/assets/presentation.mp4)
 
 
 
